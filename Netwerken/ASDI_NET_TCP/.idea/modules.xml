@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_client/ASDI_Java_NET_TCP_FX_client.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_client/ASDI_Java_NET_TCP_FX_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_common/ASDI_Java_NET_TCP_FX_common.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_common/ASDI_Java_NET_TCP_FX_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_server/ASDI_Java_NET_TCP_FX_server.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_server/ASDI_Java_NET_TCP_FX_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ASDI_NET_TCP.iml" filepath="$PROJECT_DIR$/.idea/ASDI_NET_TCP.iml" />
+    </modules>
+  </component>
+</project>
